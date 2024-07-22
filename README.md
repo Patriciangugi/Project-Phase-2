@@ -303,6 +303,9 @@ Year built: Discrete numeric (integer). Represents the year each house was built
 ## Features selected
 "X_all = ['sqft_living', 'bathrooms', 'bedrooms', 'floors', 'sqft_lot', 'yr_built', 'view'],
 
+## Conclusion:
+The final regression model achieved an R-squared value of approximately 59.5%, indicating that the selected predictor variables explain 59.5% of the variance in house prices. While the recommendations are data-driven and based on statistical analysis, individual factors and market conditions can vary, so it's essential to assess your property's specific situation before making any significant decisions.
+
 # Recommendations:
 The data analysis and regression modelling have provided valuable insights into the factors influencing house prices in the King County area. To maximize the estimated value of your homes, consider the following strategies:
 
@@ -323,9 +326,6 @@ View Quality Matters: If your property has a view, consider it a valuable asset.
 Market Trends: Keep an eye on local real estate market trends. Factors like location, neighbourhood, and market demand can also influence house prices. Stay informed about the King County housing market to make informed decisions.
 
 Consult a Real Estate Expert: To get a precise estimate of your home's value and tailor your strategy to your specific situation, consider consulting a local real estate expert or appraiser. They can provide personalized recommendations based on your property's unique characteristics.
-
-## Conclusion:
-The final regression model achieved an R-squared value of approximately 59.5%, indicating that the selected predictor variables explain 59.5% of the variance in house prices. While the recommendations are data-driven and based on statistical analysis, individual factors and market conditions can vary, so it's essential to assess your property's specific situation before making any significant decisions.
 
 ## Contributors
 **Patricia Ngugi**,

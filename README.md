@@ -306,6 +306,14 @@ Year built: Discrete numeric (integer). Represents the year each house was built
 ## Conclusion:
 The final regression model achieved an R-squared value of approximately 59.5%, indicating that the selected predictor variables explain 59.5% of the variance in house prices. While the recommendations are data-driven and based on statistical analysis, individual factors and market conditions can vary, so it's essential to assess your property's specific situation before making any significant decisions.
 
+## Implications
+This high correlation suggests that the property size significantly influences housing prices, guiding decisions for real estate investors and homebuyers regarding property valuation and market positioning.
+
+Upgrading the overall grade and quality of your home, such as high-end finishes, better materials, and improved aesthetics, can lead to higher market prices. Focus on renovations that improve the grade of your home.
+
+Real estate agents and home owners can utilize this model for predicting housing prices based on property characteristics. It supports informed decision-making in real estate investments and pricing strategies.
+
+
 # Recommendations:
 The data analysis and regression modelling have provided valuable insights into the factors influencing house prices in the King County area. To maximize the estimated value of your homes, consider the following strategies:
 

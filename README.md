@@ -340,3 +340,4 @@ Consult a Real Estate Expert: To get a precise estimate of your home's value and
 **Hanan Dayah**,
 **JoakimTI**,
 **Johnkul**.
+**Acknowledgement:** Acknowledge the dedication of the team, led by Patricia and the members of the group (Joakim, John, Hanan).

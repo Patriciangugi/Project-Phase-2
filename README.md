@@ -337,8 +337,11 @@ Consult a Real Estate Expert: To get a precise estimate of your home's value and
 
 ## Contributors
 **Patricia Ngugi**,
+
 **Hanan Dayah**,
+
 **JoakimTI**,
+
 **Johnkul**.
 
 

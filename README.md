@@ -74,7 +74,7 @@ Consult a Real Estate Expert: To get a precise estimate of your home's value and
 The final regression model achieved an R-squared value of approximately 59.5%, indicating that the selected predictor variables explain 59.5% of the variance in house prices. While the recommendations are data-driven and based on statistical analysis, individual factors and market conditions can vary, so it's essential to assess your property's specific situation before making any significant decisions.
 
 ## Contributors
-**patricia Ngugi**,
+**Patricia Ngugi**,
 **Hanan Dayah**,
 **JoakimTI**,
 **Johnkul**.

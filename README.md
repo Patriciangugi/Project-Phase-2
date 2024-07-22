@@ -4,9 +4,38 @@ Project Description
 
 King County Real-Estate is trying to predict home prices for their clients. The aim of this project is to learn more about their county's home prices and the features that affect home prices. We build linear regression models to accurately predict the price of homes in their county. This would be useful to King County homeowners who are looking to sell their home in order to get an idea of their home's value before deciding to list it with a realtor.
 
-BUSINESS PROBLEM
-To provide accurate and actionable advice to homeowners on how specific home upgrades may increase the assessed worth of their houses and by how much. This advice is critical for homeowners to make informed decisions about investing in renovations that will maximize their return on investment when purchasing or selling a home.
+INTRODUCTION:
+Insights Into The Housing Market Dynamics in Kings County, USA
+Overview
+The housing market of Kings County, Northwest USA, is a dynamic market that has a lot of factors influencing house pricing. Understanding how and to what extent these factors impact pricing is really important for homeowners, real estate agencies, and other stakeholders.
 
+This project aims to analyze housing sales data from King County, Northwest USA, employing multiple linear regression modeling. The objective is to derive meaningful insights for homeowners, real estate agencies, and other stakeholders about the factors influencing house prices, with the goal of making data-driven recommendations.
+
+Problem Statement
+This project aims to conduct a thorough analysis of house sales data in King County, Northwest USA, utilizing multiple linear regression modeling techniques. The primary goal is to uncover insights into the factors influencing house prices in the region and offer data-driven recommendations for homeowners, real estate agencies, and other stakeholders. This advice is critical for homeowners to make informed decisions about investing in renovations that will maximize their return on investment when purchasing or selling a home.
+
+Stake Holders
+This project targets a diverse audience:
+
+Homeowners: Individuals aiming to increase property value through informed decisions on renovations and enhancements.
+
+Real Estate Agencies: Companies and agents seeking data-driven insights to facilitate effective home buying and selling for their clients.
+
+Objectives:
+Explore the Relationship Between the Square Footage of the Home and Housing Prices:
+
+Investigate on how the size of the house impacts the housing prices, how significant is the correlation between living area size to price compared to the other independent variables.
+Assess the Impact of Rennovations on the Housing Price:
+
+Analyze the impact of house upgrades to the sales price. How does renovated houses compare to non-renovated house when other independent variables are constant.
+Develop a Linear Regression Model to Predict Housing Prices:
+
+Build and evaluate a linear regression model using the best features to predict house prices (price). Provide stakeholders with a predictive tool for estimating housing prices in Kings County.
+Business Understanding
+This project addresses the core business challenge within the King County, Northwest USA real estate market. Key stakeholders such as homeowners and real estate agencies are focused on gaining insights into the factors that impact house prices, enabling them to make informed, data-driven decisions in this dynamic market.
+
+Data Understanding
+We used data sourced from King County Housing Dataset CSV. The data represents houses with information on price, bedrooms, bathrooms, sqft living, sqft lot, floors, view, aqnd year built. Total data used was from 21597 homes split 80/20 for training and testing.
 
 OBSERVATION
 A take-away from this interpretation is that houses with an** AVERAGE quality of view might be under-valued since our understanding seems to indicate that it should be better than one with FAIR view (+
